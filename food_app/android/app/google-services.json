@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712787889091",
+    "project_id": "foodapp-c3deb",
+    "storage_bucket": "foodapp-c3deb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712787889091:android:717e7c5145704f9e0ccb76",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8dBNR84IDWZ4Yu0LkC4MmTYwbokqHOhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
